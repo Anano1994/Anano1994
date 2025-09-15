@@ -7,6 +7,19 @@
 
 - 📫 How to reach me **ananolomadze9@gmail.com**
 
+<div align="center">
+
+<h2>Projects</h2> 
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Anano1994&repo=AI-Prediction-main)](https://github.com/Anano1994/AI-Prediction-main)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=madushadhanushka&repo=differ)](https://github.com/madushadhanushka/differ)
+
+  
+</div>
+
+
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/anna lomadze" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anna lomadze" height="30" width="40" /></a>
