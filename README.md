@@ -12,7 +12,7 @@
 <h2>Projects</h2> 
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Anano1994&repo=AI-Prediction-main)](https://github.com/Anano1994/AI-Prediction-main)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=madushadhanushka&repo=differ)](https://github.com/madushadhanushka/differ)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Anano1994&repo=GroupProject)](://https://github.com/Anano1994/GroupProject)
 
   
 </div>
